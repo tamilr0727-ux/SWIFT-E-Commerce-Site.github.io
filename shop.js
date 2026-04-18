@@ -9,17 +9,17 @@ document.getElementById("pageTitle").innerText = category.toUpperCase();
 let products = {
     kids: [
         {name: "Custom designed", price: 999, img: "https://images.unsplash.com/photo-1541099649105-f69ad21f3246"},
-        {name: "Cartoon Printed T-shirt", price: 499, img: "cart42.jpg"},
-        {name: "Cotton Shorts Set", price: 699, img: "cart43.jpg"},
-        {name: "Denim Overalls", price: 999, img: "cart44.jpg"},
-        {name: "Mini Hoodie Set", price: 1199, img: "cart45.jpg"},
-        {name: "Printed Night Suit", price: 799, img: "cart46.jpg"},
-        {name: "Color Block T-shirt", price: 599, img: "cart47.jpg"},
-        {name: "Street Style Cargo Pants", price: 1299, img: "cart48.jpg"},
-        {name: "Tie-Dye Sweatshirt", price: 1199, img: "cart49.jpg"},
-        {name: "Varsity Jacket", price: 1999, img: "cart50.jpg"},
-        {name: "Ripped Jeans", price: 1399, img: "cart51.jpg"},
-        {name: "Long Sleeve Graphic Tee", price: 899, img: "cart52.jpg"}
+        {name: "Cartoon Printed T-shirt", price: 499, img: "./images/cart42.jpg"},
+        {name: "Cotton Shorts Set", price: 699, img: "./images/cart43.jpg"},
+        {name: "Denim Overalls", price: 999, img: "./images/cart44.jpg"},
+        {name: "Mini Hoodie Set", price: 1199, img: "./images/cart45.jpg"},
+        {name: "Printed Night Suit", price: 799, img: "./images/cart46.jpg"},
+        {name: "Color Block T-shirt", price: 599, img: "./images/cart47.jpg"},
+        {name: "Street Style Cargo Pants", price: 1299, img: "./images/cart48.jpg"},
+        {name: "Tie-Dye Sweatshirt", price: 1199, img: "./images/cart49.jpg"},
+        {name: "Varsity Jacket", price: 1999, img: "./images/cart50.jpg"},
+        {name: "Ripped Jeans", price: 1399, img: "./images/cart51.jpg"},
+        {name: "Long Sleeve Graphic Tee", price: 899, img: "./images/cart52.jpg"}
     ],
     trend: [
         { name: "Oversized Street Hoodie", price: 1699, img: "./images/cart2.jpg"},
